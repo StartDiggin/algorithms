@@ -68,6 +68,14 @@ class Algorithms extends React.Component {
         console.log(this.state.object)
         console.log(this.state.nestedObj) 
     }
+    
+    selectionSort = () => {
+        console.log(this.state.array)
+        console.log(this.state.nestedArr)
+        console.log(this.state.object)
+        console.log(this.state.nestedObj) 
+        
+    }
 
 
 
